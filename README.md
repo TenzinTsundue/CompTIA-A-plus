@@ -3,7 +3,7 @@ CompTIA A+ preparation: Study computer hardware, operating systems, networking, 
 
 Length of Test : 90 Minutes per exam <br>
 
-### Core 1 
+### Core 1 [220-1101: 675 (on a scale of 100-900)]
 
 | S.no | Topic                             | Percentage|
 |------|-----------------------------------|-----------|
@@ -14,7 +14,7 @@ Length of Test : 90 Minutes per exam <br>
 |5.    |Hardware and Network Trobleshooting|29%        |
 |Total |                                   |100%       |
 
-### Core 2
+### Core 2 [220-1102: 700 (on a scale of 100-900)]
 
 | S.no | Topic                             | Percentage|
 |------|-----------------------------------|-----------|
