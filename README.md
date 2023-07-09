@@ -1,7 +1,9 @@
 # CompTIA-A-plus
-CompTIA A+ preparation: Study computer hardware, operating systems, networking, software installation, and security fundamentals through practical hands-on experience, online resources, practice exams, and review materials.
+CompTIA A+ preparation: Study computer hardware, operating systems, networking, software installation, and security fundamentals through practical hands-on experience, online resources, practice exams, and review materials. <br>
 
-### Core 1
+Length of Test : 90 Minutes per exam <br>
+
+### Core 1 
 
 | S.no | Topic                             | Percentage|
 |------|-----------------------------------|-----------|
